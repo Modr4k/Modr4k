@@ -1,4 +1,4 @@
-## Boas Vindas ao Meu Perfil
+## Boas Vindas ao Meu Perfil 🥊
 
 - Estou estudando na [Alura](hppts://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript.
